@@ -1,0 +1,22 @@
+{
+  "name": "cljs-mm",
+  "version": "1.0.0",
+  "description": "A MasterMind clone written in cljs.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radzom/cljs-MM.git"
+  },
+  "author": "Gunnar Radzom <github@radzom.net> (http://adorsys.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radzom/cljs-MM/issues"
+  },
+  "homepage": "https://github.com/radzom/cljs-MM#readme",
+  "dependencies": {
+    "create-react-class": "15.6.3",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}
